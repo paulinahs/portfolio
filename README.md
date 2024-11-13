@@ -1,55 +1,40 @@
-Paulina Hesselius - Portfolio Website
-Welcome to my portfolio website! This site showcases my projects, skills, and experience in UX/UI design, web development, and related fields. Built with HTML, CSS, JavaScript, and Bootstrap, it provides a responsive and engaging experience to explore my work.
+# Paulina Hesselius - Portfolio Website
 
-Table of Contents
-Features
-Demo
-Technologies Used
-Project Structure
-Usage
-Contributing
-Contact
-Features
-Responsive Design: Built with Bootstrap and custom CSS for an optimal experience on all screen sizes.
-Project Gallery: Showcases my UX/UI design case studies with images and descriptions.
-Dynamic Interactions: Includes JavaScript for hover effects and interactivity.
-Styled with Google Fonts: A modern look using Montserrat, Roboto, and Ubuntu font families.
-Social Media Links: Quick access to LinkedIn, Instagram, and Redbubble profiles.
-Demo
-A live demo of the portfolio can be accessed here.
+This repository contains the source code for Paulina Hesselius's portfolio website, showcasing projects, skills, and background in UX design, product management, and full-stack development.
 
-Technologies Used
-HTML5 and CSS3: For structure and custom styling.
-JavaScript: To add dynamic interactivity and hover effects.
-Bootstrap 4.5: For responsive design and layout.
-Google Fonts: For customized typography.
-Project Structure
-The project files are organized as follows:
+## Table of Contents
 
-plaintext
-Copy code
-portfolio-website/
-├── index.html                 # Home page
-├── mpabout.html               # About page
-├── mainportfolio.css          # Main CSS for styling
-├── script.js                  # JavaScript for dynamic effects
-├── img/                       # Image folder
-│   └── projects/              # Project-specific images
-└── README.md                  # Project README
-Key Files
-index.html: Main landing page with project highlights.
-mpabout.html: About page with biography, photo, and social links.
-mainportfolio.css: Stylesheet with custom CSS for layout and design.
-script.js: JavaScript to handle hover effects on images.
-img/: Contains all images used on the site, organized by project.
-Usage
-View Projects: Navigate to the different projects showcased on the home page.
-Hover Effects: Hover over images to view effects like grayscale transitions.
-About Section: View my biography, profile photo, and access my social media links.
-Contributing
-Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository, make your changes, and submit a pull request.
+- [Project Overview](#project-overview)
+- [Technologies Used](#technologies-used)
+- [Features](#features)
+- [Contact](#contact)
 
-Contact
-Paulina Hesselius
-LinkedIn | Instagram | Redbubble
+## Project Overview
+
+This portfolio website is designed to display professional achievements, case studies, and relevant skills in a visually appealing, responsive format. Each section is organized for easy navigation and a seamless user experience.
+
+## Technologies Used
+
+- **HTML5** - Structure of the website
+- **CSS3** - Styling, including responsive layout adjustments
+- **JavaScript** - Interactive elements, such as image hover effects
+- **Bootstrap 4** - Grid layout and navigation components
+- **Google Fonts** - Custom fonts for a unique look
+
+## Features
+
+- **Responsive Layout** - Ensures a seamless experience on different devices.
+- **Case Studies** - Showcases UX projects with detailed descriptions and images.
+- **Image Hover Effects** - Adds a grayscale effect on hover for select images.
+- **Social Links** - Links to LinkedIn, Instagram, and Redbubble for easy access to profiles.
+  
+## Contact
+If you have any questions or feedback, feel free to reach out:
+
+LinkedIn: Paulina Hesselius
+
+Email: paulina.hesselius@gmail.com
+
+
+
 
